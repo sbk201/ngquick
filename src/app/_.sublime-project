@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*.js"
+			],
+			"path": "."
+		},
+		{
+			"path": "C:\\Users\\jsiu\\Documents\\Web Project\\quick2\\src\\app"
+		}
+	]
+}
