@@ -4,12 +4,13 @@
 		{
 			"file_exclude_patterns":
 			[
-				"*.js"
+				"*.js",
+				"*.map"
 			],
 			"path": "."
 		},
 		{
-			"path": "C:\\Users\\jsiu\\Documents\\Web Project\\quick2\\src\\app"
+			"path": "C:\\Users\\user\\Documents\\web_project\\quickstart\\src\\app"
 		}
 	]
 }

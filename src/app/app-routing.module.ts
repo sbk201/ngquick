@@ -4,6 +4,7 @@ import { RouterModule, Routes } from '@angular/router';
 import { PlusComponent } from './plus.component';
 import { SubtractComponent } from './subtract.component';
 
+
 const routes: Routes = [
 	{ path: '', redirectTo: 'plus', pathMatch: 'full' },
 	{ path: 'plus', component: PlusComponent },
